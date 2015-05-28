@@ -1,0 +1,8 @@
+{
+    "__extends__": "inception.android",
+    "common": {
+        "tools": {
+            
+        }
+    }
+}
