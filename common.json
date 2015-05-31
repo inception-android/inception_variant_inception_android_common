@@ -1,5 +1,6 @@
 {
     "__extends__": "inception.android",
+    "__abstract__": true,
     "__notes__": [
         "Place common configuration that are specific to your system here. Ideally for setting/override paths to compiled binaries.",
         "See inception.env as an example: https://github.com/inception-android/inception_base_inception_env"
